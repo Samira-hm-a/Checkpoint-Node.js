@@ -1,0 +1,14 @@
+{
+  "name": "checkpoint-nodejs",
+  "version": "1.0.0",
+  "description": "CheckpointNodeJS",
+  "main": "learnyounode",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samira Hmani",
+  "license": "ISC",
+  "dependencies": {
+    "learnyounode": "^4.2.2"
+  }
+}
